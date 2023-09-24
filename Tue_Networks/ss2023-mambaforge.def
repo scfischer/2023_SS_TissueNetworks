@@ -1,0 +1,16 @@
+BootStrap: docker
+From: condaforge/mambaforge
+
+%environment
+
+    PATH=/opt/conda/bin:$PATH
+
+%post
+    
+    apt-get update
+#    apt-get install -y firefox
+    /opt/conda/bin/conda create --name ss23
+    . /opt/conda/etc/profile.d/conda.sh
+    conda activate ss23
+    mamba install -c conda-forge jupyter skan
+
