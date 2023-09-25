@@ -1,0 +1,22 @@
+ ,Label,Area,Mean,Min,Max,X,Y,Perim.,%Area
+1,cellNuclei_cropped.tif,211,255,255,255,188.34,14.36,54.28,100
+2,cellNuclei_cropped.tif,184,255,255,255,149.21,18.19,51.46,100
+3,cellNuclei_cropped.tif,348,255,255,255,111.61,23.70,71.36,100
+4,cellNuclei_cropped.tif,356,255,255,255,147.96,50.17,69.60,100
+5,cellNuclei_cropped.tif,395,255,255,255,166.56,74.13,75.25,100
+6,cellNuclei_cropped.tif,192,255,255,255,141.33,73.95,50.53,100
+7,cellNuclei_cropped.tif,285,255,255,255,53.59,90.58,88.23,100
+8,cellNuclei_cropped.tif,133,255,255,255,104.35,85.90,45.46,100
+9,cellNuclei_cropped.tif,293,255,255,255,183.67,91.09,66.18,100
+10,cellNuclei_cropped.tif,214,255,255,255,138.65,107.78,55.70,100
+11,cellNuclei_cropped.tif,222,255,255,255,180.71,109.96,55.36,100
+12,cellNuclei_cropped.tif,230,255,255,255,141.56,124.64,54.77,100
+13,cellNuclei_cropped.tif,224,255,255,255,193.15,129.47,59.36,100
+14,cellNuclei_cropped.tif,229,255,255,255,37.17,133.67,56.77,100
+15,cellNuclei_cropped.tif,193,255,255,255,65.77,138.00,51.46,100
+16,cellNuclei_cropped.tif,458,255,255,255,166.78,144.40,84.67,100
+17,cellNuclei_cropped.tif,275,255,255,255,93.37,151.61,60.53,100
+18,cellNuclei_cropped.tif,176,255,255,255,126.05,153.82,58.77,100
+19,cellNuclei_cropped.tif,324,255,255,255,64.13,167.13,72.67,100
+20,cellNuclei_cropped.tif,250,255,255,255,115.08,187.40,58.28,100
+21,cellNuclei_cropped.tif,277,255,255,255,82.69,198.53,61.70,100
