@@ -27,8 +27,8 @@ class Tissue(Parameters):
         
     def radiusGrowth(self):
         self.r_old = self.r
-        self.r = self.r_max - np.exp(-self.k*(self.t-self.t0))*(self.r_max - self.r0)
-        
+        self.r = self.r_max / (1 + ((self.r_max - self.r0)/(self.r0)) * np.exp(-self.k * self.r_max * (self.t - self.t0)))
+                
     def divisionProbability(self, r):
         c = 100/self.r_max
         y = 0.95*self.r_max
